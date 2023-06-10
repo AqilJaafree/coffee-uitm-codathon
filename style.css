@@ -276,3 +276,16 @@ section{
     text-transform: none;
     background: none;
 }
+
+.footer{
+    background:var(--black);
+    text-align: center;
+}
+
+.footer .share{
+    padding:1rem 0;
+}
+
+.footer .share a{
+    height
+}
